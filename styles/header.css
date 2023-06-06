@@ -22,3 +22,12 @@
   align-items: center;
   position: relative;
 }
+
+.container {
+  display:flex;
+  align-items: center;
+}
+
+.container_imagem {
+  padding: 1em;
+}
