@@ -6,5 +6,5 @@
 .contato_título,
 .contato_texto {
   background: var(--azul-degrade);
-  -webkit-background-clip:text
+  -webkit-background-clip: text
   -webkit-text-fill-color: transparent
