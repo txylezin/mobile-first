@@ -3,7 +3,7 @@
   padding:1em
 }
 
-.contato_título,
+.contato__titulo,
 .contato_texto {
   background: var(--azul-degrade);
   -webkit-background-clip: text
