@@ -16,3 +16,13 @@ hr {
     display: flex;
     justify-content: space-around;
   }
+
+.lista-rodapé {
+  displau; block;
+}
+
+.lista-rodapé__item {
+  display: flex;
+  align-items: center;
+  margin: 0.6em 0;
+}
