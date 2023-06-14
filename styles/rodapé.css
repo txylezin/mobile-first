@@ -18,7 +18,7 @@ hr {
   }
 
 .lista-rodapé {
-  displau; block;
+  displau: block;
 }
 
 .lista-rodapé__item {
