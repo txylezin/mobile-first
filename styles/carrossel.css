@@ -61,3 +61,24 @@
   font-size: 14px;
 }
   
+.botões__item {
+  margin: 0 0.5em;
+}
+
+.botões__ancora {
+  background-color: var(--laranja);
+  padding: 1em 2.2em;
+  color: var(--bramco);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+@media screen and (min-width: 1024px) {
+  .carrossel__titulo {
+    font-size: 20px;
+}
+
+.swiper-pagination {
+  margin: 2em 0 3em 0;
+}
+  
