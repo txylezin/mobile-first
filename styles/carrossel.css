@@ -50,3 +50,10 @@
   font-weight: 700;
 }
   
+.descrição__titulo-livro {
+  color: var(--azul);
+  font-size: 10px;
+  font-weight: 700;
+  margin: 0.5em 0;
+}
+  
